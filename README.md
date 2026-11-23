@@ -46,11 +46,11 @@ I don't just use tools — I understand systems from the inside: how they work, 
 | --- | --- |
 | 🔎 **[Cyber-Scope](https://github.com/SeniorMohamed/Cyber-Scope)** | Cyber Threat Hunting and Intelligence Platform — Passive DNS & WHOIS, subdomain enumeration, threat-feed correlation, MITRE ATT&CK playbooks |
 | 🐧 **[Check-Kernal](https://github.com/SeniorMohamed/Check-Kernal)** | Linux Kernel Security Inspector — finds weak kernel configurations, generates clean HTML and JSON reports. Ideal for bug bounty, DFIR, and system hardening |
-| 🛡️ **Eye of Justice / عين العدالة** | Security-database program — entity registry, phone / relationship intel and link analysis (training system) |
+| 🛡️ **Eye of Justice** | Security-database program — entity registry, phone / relationship intel and link analysis (training system) |
 | 🏢 **[AMUN Corporate Intelligence (ACI)](https://github.com/SeniorMohamed/amun-intelligence)** | Corporate intelligence / OSINT multi-agent platform — real OSINT via DNS, scan and mission workflows |
 | 🤖 **Evyndra** | AI customer-service & marketing platform — Telegram bot, 36 sectors, bookings and queue |
 | 🥇 **Gold Council** | Telegram trading-signals bot (XAUUSD first) — documented paper journal only, no auto-trading, no proven edge claimed |
-| 🧩 **TAKWEEN / تكوين** | AI-native composition — programming as composition over hashed, verified blocks |
+| 🧩 **TAKWEEN** | AI-native composition — programming as composition over hashed, verified blocks |
 | 🔬 **CJIS/LEEP Simulation Lab** | Isolated research environment simulating real-world US federal digital forensics & intelligence platforms (May 2025) |
 
 ## 🧰 Skills & Tools
