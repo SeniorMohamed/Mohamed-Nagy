@@ -128,7 +128,7 @@ Cognitive AI architecture — multi-agent orchestration with layered memory
 <td align="center"><img src="assets/issuers/cji.webp" height="44" alt="University of Arkansas System — Criminal Justice Institute"></td>
 <td align="center"><img src="assets/issuers/us-dod.png" height="44" alt="US Dept. of Defense"></td>
 <td align="center"><img src="assets/issuers/basel.jpg" height="44" alt="Basel Institute on Governance"></td>
-<td align="center"><img src="assets/issuers/sans.svg" height="44" alt="SANS"></td>
+<td align="center"><img src="assets/issuers/sans-tile.png" height="44" alt="SANS"></td>
 <td align="center"><img src="assets/issuers/ibm.svg" height="44" alt="IBM"></td>
 <td align="center"><img src="assets/issuers/centri-tile.png" height="44" alt="Centri (formerly Security Blue Team)"></td>
 </tr>
@@ -136,7 +136,7 @@ Cognitive AI architecture — multi-agent orchestration with layered memory
 <td align="center"><img src="assets/issuers/ncpc-tile.png" height="44" alt="National Cybersecurity Preparedness Consortium"></td>
 <td align="center"><img src="assets/issuers/fema.svg" height="44" alt="FEMA"></td>
 <td align="center"><img src="assets/issuers/cisa.png" height="44" alt="CISA"></td>
-<td align="center"><img src="assets/issuers/unodc.svg" height="44" alt="UNODC"></td>
+<td align="center"><img src="assets/issuers/unodc-tile.png" height="44" alt="UNODC"></td>
 <td align="center"><img src="assets/issuers/ec-council.png" height="44" alt="EC-Council"></td>
 <td align="center"><img src="assets/issuers/cisco.svg" height="44" alt="Cisco"></td>
 <td align="center"><img src="assets/issuers/teex.png" height="44" alt="Texas A&amp;M Engineering Extension Service"></td>
