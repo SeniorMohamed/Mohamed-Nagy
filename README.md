@@ -79,7 +79,7 @@ AI customer-service &amp; marketing — Telegram bot, bookings, queue
 <tr>
 <td width="50%" valign="top">
 <img src="assets/gold-council-logo.webp" width="90" alt="Gold Council"><br>
-<b>Gold Council</b><br>
+<b><a href="https://github.com/goldcouncil28-creator/GoldCouncil">Gold Council</a></b><br>
 XAUUSD analysis — structured paper journal only, no proven edge claimed
 </td>
 <td width="50%" valign="top">
