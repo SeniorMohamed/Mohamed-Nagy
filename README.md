@@ -67,7 +67,7 @@ Linux kernel security inspector — HTML &amp; JSON reports
 <tr>
 <td width="50%" valign="top">
 <img src="assets/amun-logo.png" width="90" alt="AMUN Corporate Intelligence"><br>
-<b><a href="https://github.com/SeniorMohamed/amun-intelligence">AMUN Corporate Intelligence</a></b><br>
+<b><a href="https://github.com/amunintelligence-stack/amun-intelligence">AMUN Corporate Intelligence</a></b><br>
 Corporate intel / OSINT multi-agent workflows
 </td>
 <td width="50%" valign="top">
