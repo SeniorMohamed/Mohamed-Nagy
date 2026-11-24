@@ -114,11 +114,6 @@ Cognitive AI architecture — multi-agent orchestration with layered memory
 </tr>
 </table>
 
-## ◆ Contributions — Last 12 Months
-
-<p align="center">
-  <img src="assets/contributions.svg" alt="Contributions — Last 12 Months" width="780">
-</p>
 
 ## ◆ Certifications
 
